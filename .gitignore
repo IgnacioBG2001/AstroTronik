@@ -1,0 +1,19 @@
+# Binarios y compilaciones de Arduino  PlatformIO
+build
+.hex
+.bin
+.elf
+.o
+.d
+
+# Archivos locales de IDEs
+.vscode
+.idea
+.code-workspace
+.sublime-
+
+# Archivos temporales de sistema operativo y sincronización
+.DS_Store
+Thumbs.db
+desktop.ini
+~$
