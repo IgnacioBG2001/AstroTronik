@@ -15,3 +15,10 @@ Firmware de control cinemático y orientación para montura de telescopio altazi
 | :--- | :---: | :---: | :---: | :---: |
 | **Altitud** | GPIO 16 | GPIO 17 | GPIO 25 | GPIO 26 |
 | **Azimut**  | GPIO 19 | GPIO 18 | GPIO 32 | GPIO 33 |
+
+## layout de conexión
+![Imagen layout](Layout.png)
+
+
+## Schematic
+![Imagen de Schematic](Schematic_AstroTronik-v1.pdf)
