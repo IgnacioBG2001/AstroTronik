@@ -17,7 +17,7 @@ Firmware de control cinemático y orientación para montura de telescopio altazi
 | **Azimut**  | GPIO 19 | GPIO 18 | GPIO 32 | GPIO 33 |
 
 ## layout de conexión
-![Imagen layout](Layout.png)
+![Imagen layout](Layout.jpg)
 
 
 ## Schematic
