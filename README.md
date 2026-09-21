@@ -1,4 +1,4 @@
-# AstroPilot - Firmware ESP32 (Control de Movimiento Dual-Core)
+# AstroTronik - Firmware ESP32 (Control de Movimiento Dual-Core)
 
 Firmware de control cinemático y orientación para montura de telescopio altazimutal utilizando ESP32, periférico de conteo por hardware (PCNT) y enlace BLE.
 
