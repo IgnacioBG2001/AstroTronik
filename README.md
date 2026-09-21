@@ -20,5 +20,5 @@ Firmware de control cinemático y orientación para montura de telescopio altazi
 ![Imagen layout](Layout.jpg)
 
 
-## Schematic
-![Imagen de Schematic](Schematic_AstroTronik-v1.pdf)
+## Schematic realizado en EasyEDA
+![Imagen de Schematic](Schematic.jpg)
